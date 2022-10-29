@@ -12,7 +12,7 @@ interface Tprops{
     <ApplicationWrapper title={product.title}>
         
         <Image
-          className="cursor-pointer rounded-t-lg"
+          className="cursor-pointer rounded-lg"
           src={product.image}
           alt={`${product.title} Imagen`}
           width={250}

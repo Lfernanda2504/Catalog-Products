@@ -12,8 +12,10 @@ const Home: NextPage<HomeProps> = () => {
       <ApplicationWrapper title="Home" description="Home of the store products">
         <div className="grow flex flex-col justify-center items-center bg-[url('/images/banner.png')]">
           <div className="grow bg-black w-full justify-center items-center flex opacity-70">
-          <h1 className="text-5xl font-bold underline text-white"> Bienvenid@ a Store Products </h1> 
+          <h1 className="text-5xl font-bold  text-white"> Bienvenid@ a Store Products </h1> 
           </div>
+          <span>Nombre: Luisa Fda Garcia </span>
+          <span>Email: luizafernandaGarcia@gmail.com </span>
         </div>
       </ApplicationWrapper>
     </div>

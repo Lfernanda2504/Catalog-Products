@@ -13,7 +13,7 @@ interface TProps {
 
 export const ApplicationWrapper: FC<PropsWithChildren<TProps>> = ({ title, description, children}) => {
   return (
-    <div className="bg-black min-h-screen flex flex-col">
+    <div className="bg-black min-h-screen flex flex-col opacity-70">
       <Head>
         <title>{title} | Store Products </title>
         {description &&  <meta name="description"content={description}/>}

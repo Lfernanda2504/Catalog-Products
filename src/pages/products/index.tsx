@@ -11,7 +11,7 @@ const Products: NextPage<TProps> = ({products}) => {
   return (
     <div>
       <ApplicationWrapper title="Products" description="Store of the products website">
-      <h1 className="text-5xl font-bold underline">Products</h1>
+      <h1 className="text-5xl font-bold ">Products</h1>
       <ProductList products={products}/>
       </ApplicationWrapper>
     </div>

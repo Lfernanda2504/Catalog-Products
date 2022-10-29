@@ -10,7 +10,7 @@ export const Product: FC<TProps> = ({ product }) => {
     <li>
         <Link href={`/products/${product.id}`}>
         <Image
-          className="cursor-pointer rounded-t-lg"
+          className="cursor-pointer rounded-lg "
           src={product.image}
           alt={`${product.title} Imagen`}
           width={500}
