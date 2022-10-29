@@ -16,12 +16,15 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-#Stack 
-<hr>
-<ul>
-<li>NextJS</li>
-<li>TypeScript</li>
-</ul>
+## Stack 
+
+-NextJs
+-TypeScript
+- Api [fakestoreapi](https://fakestoreapi.com/products/)
+
+## Author
+[Luisa Fda Garcia](https://github.com/Lfernanda2504)
 
 
-'''git clone https://github.com/Malena-Ramirez/e-commerce.git'''
+
+
