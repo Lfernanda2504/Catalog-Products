@@ -18,8 +18,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ```
 ## Stack 
 
--NextJs
--TypeScript
+- NextJs
+- TypeScript
 - Api [fakestoreapi](https://fakestoreapi.com/products/)
 
 ## Author
